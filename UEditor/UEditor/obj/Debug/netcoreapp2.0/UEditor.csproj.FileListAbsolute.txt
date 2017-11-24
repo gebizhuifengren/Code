@@ -1,0 +1,11 @@
+D:\GitHub\Code\UEditor\UEditor\obj\Debug\netcoreapp2.0\UEditor.csprojResolveAssemblyReference.cache
+D:\GitHub\Code\UEditor\UEditor\obj\Debug\netcoreapp2.0\UEditor.csproj.CoreCompileInputs.cache
+D:\GitHub\Code\UEditor\UEditor\obj\Debug\netcoreapp2.0\UEditor.AssemblyInfoInputs.cache
+D:\GitHub\Code\UEditor\UEditor\obj\Debug\netcoreapp2.0\UEditor.AssemblyInfo.cs
+D:\GitHub\Code\UEditor\UEditor\bin\Debug\netcoreapp2.0\UEditor.deps.json
+D:\GitHub\Code\UEditor\UEditor\bin\Debug\netcoreapp2.0\UEditor.runtimeconfig.json
+D:\GitHub\Code\UEditor\UEditor\bin\Debug\netcoreapp2.0\UEditor.runtimeconfig.dev.json
+D:\GitHub\Code\UEditor\UEditor\bin\Debug\netcoreapp2.0\UEditor.dll
+D:\GitHub\Code\UEditor\UEditor\bin\Debug\netcoreapp2.0\UEditor.pdb
+D:\GitHub\Code\UEditor\UEditor\obj\Debug\netcoreapp2.0\UEditor.dll
+D:\GitHub\Code\UEditor\UEditor\obj\Debug\netcoreapp2.0\UEditor.pdb
